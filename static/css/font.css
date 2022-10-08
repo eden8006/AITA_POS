@@ -1,0 +1,94 @@
+ @font-face {
+  font-family: SourceHanSerifCN-Medium;
+  font-display: swap;
+  src: url("../font/SourceHanSerifCN-Medium.otf");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Light;
+  font-display: swap;
+  src: url("../font/SourceHanSansCN-Light.otf");
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Regular;
+  font-display: swap;
+  src: url("../font/SourceHanSansCN-Regular.otf");
+} 
+
+@font-face {
+  font-family: Playfair Display;
+  font-display: swap;
+  src: url("../font/PlayfairDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: Oraqle Script;
+  font-display: swap;
+  src: url("../font/Oraqle-Script.otf");
+}
+
+@font-face {
+  font-family: Montserrat Regular;
+  font-display: swap;
+  src: url("../font/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: Montserrat-Light;
+  font-display: swap;
+  src: url("../font/Montserrat-Light-6.otf");
+}
+
+@font-face {
+  font-family: Montserrat-Bold;
+  font-display: swap;
+  src: url("../font/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: PlayfairDisplay-Bold;
+  font-display: swap;
+  src: url("../font/PlayfairDisplay-Bold-4.ttf");
+}
+@font-face {
+  font-family: SourceHanSansCN-Bold;
+  font-display: swap;
+  src: url("../font/SourceHanSansCN-Bold.otf");
+}
+
+@font-face {
+  font-family: Montserrat-SemiBold;
+  font-display: swap;
+  src: url("../font/MyriadPro-Semibold-13.otf");
+}
+
+@font-face {
+  font-family: Anton-Regular;
+  font-display: swap;
+  src: url("../font/Anton-2.ttf");
+}
+
+@font-face {
+  font-family: Myriad Pro;
+  font-display: swap;
+  src: url("../font/MyriadPro-It-21.otf");
+}
+
+ @font-face {
+  font-family: Montserrat;
+  font-display: swap;
+  src: url("../font/Montserrat-Medium-7.otf");
+}
+
+@font-face {
+  font-family: Corgi;
+  font-display: swap;
+  src: url("../font/Corgi-Regular.ttf");
+} 
+
+@font-face {
+  font-family: Montserrat-ExtraLight;
+  font-display: swap;
+  src: url("../font/Montserrat-ExtraLight-5.otf");
+} 
